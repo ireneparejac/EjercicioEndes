@@ -3,6 +3,10 @@
 # realizar entre los dos números. Las operaciones que implementará serán suma, resta, multiplicación, división
 # y potencia.
 
+print("//////////////////////////////////////////")
+print("       BIENVENIDO A LA CALCULADORA        ")
+print("//////////////////////////////////////////")
+
 entero1 = int(input('Escribe un número entero.'))
 entero2 = int(input('Escribe otro número entero.'))
 print('')
